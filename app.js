@@ -1,1 +1,1 @@
-console.log("Test a message");
+console.log("Test a message: hello the world!");
